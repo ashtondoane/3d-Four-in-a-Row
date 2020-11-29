@@ -1,7 +1,7 @@
 # 3d-Four-in-a-Row
 
 This was a project that both my friend Naoto and I made seperate bots for.
-Here is a link to a concise video about it: ____
+Here is a link to a concise video about it: https://www.youtube.com/watch?v=E5ARkktin9w
 
 In a game called 3D Four in a Row, we created bots to choose the best move for the next turn based on a minimax algorithm.
 
